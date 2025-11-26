@@ -53,6 +53,6 @@ Pressione **Q** para sair.
 ## 🔊 Observação
 
 Coloque seu som de alerta em:
----
+```
 sounds/alert.mp3
----
+```
