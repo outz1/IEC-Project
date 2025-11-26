@@ -48,7 +48,9 @@ playing_after_open = False
 after_open_start = None
 alert_playing = False
 
+print("==========================================")
 print("Detector iniciado! Pressione Q para sair.")
+print("==========================================")
 
 while True:
     ret, frame = cap.read()
